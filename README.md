@@ -1,5 +1,7 @@
 [리눅스 맨 페이지](https://www.kernel.org/doc/man-pages/) 중 재밌어 보이는 걸 번역합니다. [위키](https://github.com/wariua/manpages-ko/wiki)에 있습니다.
 
+기준 버전: 5.02
+
 * [잡다](https://github.com/wariua/manpages-ko/wiki/Sect_Various)
 * [프로세스](https://github.com/wariua/manpages-ko/wiki/Sect_Process)
 * [스레드](https://github.com/wariua/manpages-ko/wiki/Sect_Thread)
